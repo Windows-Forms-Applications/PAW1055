@@ -1,0 +1,6 @@
+C:\Users\Cristian\source\repos\sem1_paw\sem1_paw\bin\Debug\sem1_paw.exe.config
+C:\Users\Cristian\source\repos\sem1_paw\sem1_paw\bin\Debug\sem1_paw.exe
+C:\Users\Cristian\source\repos\sem1_paw\sem1_paw\bin\Debug\sem1_paw.pdb
+C:\Users\Cristian\source\repos\sem1_paw\sem1_paw\obj\Debug\sem1_paw.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\source\repos\sem1_paw\sem1_paw\obj\Debug\sem1_paw.exe
+C:\Users\Cristian\source\repos\sem1_paw\sem1_paw\obj\Debug\sem1_paw.pdb
